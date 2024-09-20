@@ -17,7 +17,7 @@
     Guilherme.setHobbies(hobbies);
 ```
 
-## Codes & Tools  
+## Linguagens  
 <div style="display: inline_block">
   <img align="center" alt="EstGui-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="EstGui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,6 +33,6 @@
 
 <br>
 
-## Redes Sociais
+## Contatos
 - [LinkedIn](https://www.linkedin.com/in/guiest/)
 - [Email](mailto:guilherme.o.esteves@gmail.com)
