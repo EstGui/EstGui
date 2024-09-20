@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**EstGui/EstGui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Guilherme! 👋
 
-Here are some ideas to get you started:
+```Java
+    Pessoa Guilherme = new Pessoa(
+            "Guilherme",                // Nome
+            20,                         // Idade
+            "Ciencia da Computacao"     // Formacao
+    );
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    List<String> hobbies = Arrays.asList(
+            "Programar",
+            "Musculacao"
+            "Musica",
+    );
+
+    Guilherme.setHobbies(hobbies);
+```
+
+## Codes & Tools  
+<div style="display: inline_block">
+  <img align="center" alt="EstGui-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="EstGui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!-- <img align="center" alt="EstGui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+  <img align="center" alt="EstGui-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="EstGui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="EstGui-Cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="EstGui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="EstGui-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="EstGui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="EstGui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<br>
+
+## Redes Sociais
+- [LinkedIn](https://www.linkedin.com/in/guiest/)
+- [Email](mailto:guilherme.o.esteves@gmail.com)
