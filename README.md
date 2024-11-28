@@ -2,7 +2,7 @@
 # Olá, eu sou Guilherme! 👋
 
 ```Java
-    Pessoa Guilherme = new Pessoa(
+    Pessoa guilherme = new Pessoa(
             "Guilherme",                // Nome
             20,                         // Idade
             "Ciencia da Computacao"     // Formacao
@@ -10,11 +10,11 @@
 
     List<String> hobbies = Arrays.asList(
             "Programar",
-            "Musculacao"
-            "Musica",
+            "Musculacao",
+            "Musica"
     );
 
-    Guilherme.setHobbies(hobbies);
+    guilherme.setHobbies(hobbies);
 ```
 
 ## Linguagens  
