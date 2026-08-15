@@ -70,7 +70,7 @@
 ### 💻 Tech Stack Highlights
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,dotnet,react,nextjs,nodejs,azure,docker,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,nodejs,typescript,javascript,react,nextjs,azure,docker,postgres,mysql" />
 </p>
 
 ---
